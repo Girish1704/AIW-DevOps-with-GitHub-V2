@@ -188,9 +188,9 @@ In this task, you'll explore how secret scanning works and see how it generates 
 
    ![](media/2dg112.png)    
    
-1. Click on **Add file** and select **Create new file** option.
+1. Click on **Add file (1)** and select **Create new file (2)** option.
 
-   ![](media/2dg113.png)    
+   ![](media/cor_g_1-5.png)    
    
 1. Add new file with name **build.docker-compose.yml (1)** name, add the code mentioned below **commit** the file. Here, you'll expose the **Application ID** of a service principal.
 
